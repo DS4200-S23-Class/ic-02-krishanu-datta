@@ -1,0 +1,16 @@
+/* Styling goes in this file */
+body {
+	font-family: Arial;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+.container {
+	border: 5px solid black;
+}
